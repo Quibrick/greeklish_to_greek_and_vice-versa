@@ -1,7 +1,7 @@
 # greeklish_to_greek_and_vice-versa
 
 !BUGS: - if you provide a string starting with p as pasture programm goes into an infinite loop. 
-       - if you provide a string with length 1 and only the letter k or p you will get an eroor.
+       - if you provide a string with length 1 and only the letter k or p you will get an error.
 
 Greek-lish to Greek and vice versa translator.
 
